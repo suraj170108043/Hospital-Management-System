@@ -1,13 +1,4 @@
-Group 10
-Members - 1-Makharia Ayush
-	  2-Anubhav Tyagi
-	  3-Theegala Rakesh Reddy
-	  4-Vineet Malik
-	  5-Vivek Kumar
-	  6-Kanchugantla Rhythm
-	  
-
-Meeting 1 - Attendance - All Present 
+     Meeting 1 - Attendance - All Present 
             Time - 3 pm    Date - 29/01/2019    Duration - 20 mins
 	    1-General Discussion on the services that can be included in the form like booking appointment by patient , accepting or rejecting appointment by the doctor and an admin section               to Manage the Database
 	    2-Choice of Database - MySQL	    
